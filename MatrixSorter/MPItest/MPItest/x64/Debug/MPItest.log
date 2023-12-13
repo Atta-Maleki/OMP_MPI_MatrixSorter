@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  reza.cpp
+e:\programming prjcts\mpi\mpitest\mpitest\reza.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\programming prjcts\mpi\mpitest\mpitest\reza.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programming prjcts\mpi\mpitest\mpitest\reza.cpp(119): warning C4101: 'send_error_code': unreferenced local variable
+e:\programming prjcts\mpi\mpitest\mpitest\reza.cpp(27): warning C4101: 'temp': unreferenced local variable
+  MPItest.vcxproj -> E:\Programming Prjcts\MPI\MPItest\MPItest\.\Debug\MPItest.exe
+  MPItest.vcxproj -> .\Debug\MPItest.pdb (Partial PDB)

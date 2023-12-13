@@ -1,0 +1,8 @@
+﻿  OceanKernelTest.cpp
+OceanKernelTest.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 26 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FirstOpenMpEver.vcxproj -> E:\Programming Prjcts\OpenMP\FirstOpenMpEver\x64\Release\FirstOpenMpEver.exe
